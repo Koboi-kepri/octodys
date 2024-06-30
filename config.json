@@ -1,0 +1,9 @@
+{
+    "host": "127.0.0.1",
+    "port": 8888,
+    "users": {
+        "user1": "a6b3ff6d15c30f8be2e43b4f925910c10f780f2722f4f2eb4d1393dca5ef5f2b",
+        "user2": "d8d3c6a81f37c7e7eb67576a500c1a1997e9c9fb49e0e6836a3b6f38360e68c0"
+    },
+    "encryption_key": "K2K06U3qA0lCE7wKYeCjKXMPN6h7N_6aQwCGfr_9rvM="
+}
